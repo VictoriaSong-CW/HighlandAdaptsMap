@@ -6,7 +6,7 @@
 
 ### To embed this in the website, paste this in the html:
 <iframe 
-  src="[https://<your-username>.github.io/<your-repo>/leaflet_map.html](http://highland-adapts-climate-webmap.s3-website.eu-west-2.amazonaws.com/ )"
+  src="http://highland-adapts-climate-webmap.s3-website.eu-west-2.amazonaws.com/"
   width="100%" 
   height="600" 
   style="border:none;">
